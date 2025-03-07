@@ -1,4 +1,5 @@
 Nine Men's Morris Game
+
 This is an implementation of the Nine Men's Morris game, a classic two-player strategy board game. Players take turns placing their pieces on the board with the goal of creating mills—three of their pieces aligned in a row, column, or diagonal. When a player forms a mill, they can remove one of their opponent's pieces from the board.
 
 Game Rules
