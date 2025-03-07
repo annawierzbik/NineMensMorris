@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1718195397 source:c:\users\ania\desktop\ninemensmorris2.1\main.cpp
+	<iostream>
+	"nine_mens_morris.h"
+
+1718197034 source:c:\users\ania\desktop\ninemensmorris2.1\player.cpp
+	"player.h"
+	<iostream>
+
+1718197653 c:\users\ania\desktop\ninemensmorris2.1\player.h
+	<stdexcept>
+
+1718191647 source:c:\users\ania\desktop\ninemensmorris2.1\coordinates.cpp
+	"coordinates.h"
+	<iostream>
+	<stdexcept>
+
+1718197653 c:\users\ania\desktop\ninemensmorris2.1\coordinates.h
+
+1718195505 source:c:\users\ania\desktop\ninemensmorris2.1\game_board.cpp
+	"game_board.h"
+	<iostream>
+
+1718197653 c:\users\ania\desktop\ninemensmorris2.1\game_board.h
+	"coordinates.h"
+	"player.h"
+	<array>
+	<cstddef>
+
+1718196989 c:\users\ania\desktop\ninemensmorris2.1\nine_mens_morris.h
+	"game_board.h"
+	"player.h"
+	"coordinates.h"
+	<iostream>
+
+1718196989 source:c:\users\ania\desktop\ninemensmorris2.1\nine_mens_morris.cpp
+	"nine_mens_morris.h"
+	<iostream>
+
