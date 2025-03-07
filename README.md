@@ -13,13 +13,17 @@ Game Rules
 To compile and run the game:
 
 On Windows:
+
 Use the following command to compile:
     "mingw32-make"
+
 To run the game:
     "./game.exe"
 
 On Linux/macOS:
+
 Use the following command to compile:
     "make"
+
 To run the game:
     "./game"
